@@ -1,7 +1,12 @@
-.side-navbar li a:hover{
+/* .side-navbar li a:hover{
     background-color: #f39f01;
 }
 
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
     background-color: #f39f01;
-}
+} */
+
+.color-section{ 
+    background: linear-gradient(to left, #F49C04,#FCEB11) no-repeat center center fixed; 
+    background-size: cover;
+  }

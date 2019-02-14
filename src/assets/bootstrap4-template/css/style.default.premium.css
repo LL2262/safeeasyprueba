@@ -88,7 +88,7 @@ table {
 }
 
 .badge.badge-primary {
-  background: #33b35a;
+  background: #F49C04;
 }
 
 .page {
@@ -203,7 +203,7 @@ section header {
 * ==========================================================
 */
 nav.navbar {
-  background: #393836;
+  background: #575756;
   padding: .8rem 0;
   /* Navbar Brand --------- */
   /*  Dropdowns ------------ */
@@ -342,7 +342,7 @@ nav.navbar a.menu-btn i[class*='icon-'] {
 }
 
 nav.navbar a.menu-btn:hover {
-  background: #33b35a;
+  background: #F49C04;
 }
 
 /*  NAVBAR MEDIAQUERIES ---------------------------------- */
@@ -381,7 +381,7 @@ nav.navbar a.menu-btn:hover {
   height: 100%;
   width: 200px;
   text-align: left;
-  background: #393836;
+  background: #575756;
   color: #fff;
   z-index: 999;
   overflow-y: auto;
@@ -428,7 +428,7 @@ nav.navbar a.menu-btn:hover {
 }
 
 .side-navbar li a:focus, .side-navbar li a:hover, .side-navbar li a[aria-expanded="true"] {
-  background: #33b35a;
+  background: #F49C04;
   color: #fff;
   text-decoration: none;
 }
@@ -450,7 +450,7 @@ nav.navbar a.menu-btn:hover {
 }
 
 .side-navbar li.active > a {
-  background: #33b35a;
+  background: #F49C04;
 }
 
 .side-navbar li li.active > a {
@@ -471,7 +471,7 @@ nav.navbar a.menu-btn:hover {
 }
 
 .side-navbar li ul.collapse a {
-  border-left: 2px solid #33b35a;
+  border-left: 2px solid #F49C04;
 }
 
 .side-navbar li ul.collapse a:hover {
@@ -480,13 +480,12 @@ nav.navbar a.menu-btn:hover {
 
 .side-navbar .sidenav-header {
   background: #292929;
-  padding: 14px;
   margin-bottom: 10px;
 }
 
 .side-navbar .sidenav-header img {
-  width: 50px;
-  height: 50px;
+  width: 130px;
+  height: 130px;
 }
 
 .side-navbar .sidenav-header span {
@@ -670,11 +669,11 @@ nav.navbar a.menu-btn:hover {
 }
 
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-  background-color: #33b35a;
+  background-color: #F49C04;
 }
 
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar:hover {
-  background-color: #33b35a;
+  background-color: #F49C04;
 }
 
 /*
@@ -694,7 +693,7 @@ nav.navbar a.menu-btn:hover {
 
 .dashboard-counts .count-title i {
   font-size: 1.5em;
-  color: #33b35a;
+  color: #F49C04;
 }
 
 .dashboard-counts .icon {
@@ -892,7 +891,7 @@ nav.navbar a.menu-btn:hover {
 }
 
 .statistics .user-activity .progress .progress-bar.bg-primary {
-  background: #33b35a !important;
+  background: #F49C04 !important;
 }
 
 .statistics .user-activity .page-statistics {
@@ -902,7 +901,7 @@ nav.navbar a.menu-btn:hover {
 .statistics .user-activity .page-statistics strong {
   display: block;
   text-transform: uppercase;
-  color: #33b35a;
+  color: #F49C04;
   font-size: 2em;
 }
 
@@ -1142,7 +1141,7 @@ nav.navbar a.menu-btn:hover {
   height: auto !important;
   -webkit-box-shadow: none !important;
   box-shadow: none !important;
-  color: #33b35a !important;
+  color: #F49C04 !important;
   border-right: 1px solid #eee;
 }
 
@@ -1322,7 +1321,7 @@ input.input-material.is-invalid {
 }
 
 input.input-material:focus {
-  border-color: #33b35a;
+  border-color: #F49C04;
   outline: none;
 }
 
@@ -1340,7 +1339,7 @@ input.input-material ~ label {
 input.input-material ~ label.active {
   font-size: 0.8rem;
   top: -10px;
-  color: #33b35a;
+  color: #F49C04;
 }
 
 input.input-material.is-invalid ~ label {
@@ -1353,7 +1352,7 @@ input.form-control-custom {
 }
 
 input.form-control-custom:checked + label::before {
-  background: #33b35a !important;
+  background: #F49C04 !important;
 }
 
 input.form-control-custom:checked + label::after {
@@ -1595,7 +1594,7 @@ button {
 }
 
 .noUi-connect {
-  background: #33b35a;
+  background: #F49C04;
 }
 
 /*
@@ -1619,8 +1618,8 @@ button {
 }
 
 .datepicker-dropdown.dropdown-menu td.active, .datepicker-dropdown.dropdown-menu td:active {
-  background-color: #33b35a !important;
-  border-color: #33b35a !important;
+  background-color: #F49C04 !important;
+  border-color: #F49C04 !important;
 }
 
 .datepicker-dropdown.dropdown-menu:before, .datepicker-dropdown.dropdown-menu:after {
@@ -1650,7 +1649,7 @@ button {
 
 .bootstrap-select .dropdown-menu li a:hover {
   background: #fff;
-  color: #33b35a;
+  color: #F49C04;
 }
 
 .bootstrap-select .dropdown-toggle:focus {
@@ -1667,7 +1666,7 @@ button {
 * ==========================================================
 */
 .bootstrap-tagsinput .label-info {
-  background-color: #33b35a;
+  background-color: #F49C04;
   display: inline-block;
   padding: 2px 10px;
   border-radius: 3px;
@@ -1752,7 +1751,7 @@ button {
 }
 
 .ms-container .ms-list.ms-focus {
-  border-color: #33b35a;
+  border-color: #F49C04;
 }
 
 .ms-container ul {
@@ -1784,7 +1783,7 @@ button {
   cursor: pointer;
   color: #fff;
   text-decoration: none;
-  background-color: #33b35a;
+  background-color: #F49C04;
 }
 
 .ms-container .ms-selectable li.disabled,
@@ -2982,10 +2981,10 @@ ul.messenger-theme-flat .messenger-spinner {
 
 .fc-event,
 .fc-event-dot {
-  background-color: #33b35a;
+  background-color: #F49C04;
   /* default BACKGROUND color */
   color: #fff !important;
-  border-color: #33b35a;
+  border-color: #F49C04;
 }
 
 .fc .alert-info {
@@ -3087,7 +3086,7 @@ ul.messenger-theme-flat .messenger-spinner {
 }
 
 .infobox h3 a:focus, .infobox h3 a:hover {
-  color: #33b35a;
+  color: #F49C04;
 }
 
 .infobox .image {
@@ -3120,7 +3119,7 @@ ul.messenger-theme-flat .messenger-spinner {
 .sk-rotating-plane {
   width: 40px;
   height: 40px;
-  background-color: #33b35a;
+  background-color: #F49C04;
   margin: 0;
   -webkit-animation: sk-rotatePlane 1.2s infinite ease-in-out;
   animation: sk-rotatePlane 1.2s infinite ease-in-out;
@@ -3176,7 +3175,7 @@ ul.messenger-theme-flat .messenger-spinner {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #33b35a;
+  background-color: #F49C04;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -3233,7 +3232,7 @@ ul.messenger-theme-flat .messenger-spinner {
 }
 
 .sk-wave .sk-rect {
-  background-color: #33b35a;
+  background-color: #F49C04;
   height: 100%;
   width: 6px;
   display: inline-block;
@@ -3305,7 +3304,7 @@ ul.messenger-theme-flat .messenger-spinner {
 }
 
 .sk-wandering-cubes .sk-cube {
-  background-color: #33b35a;
+  background-color: #F49C04;
   width: 10px;
   height: 10px;
   position: absolute;
@@ -3386,7 +3385,7 @@ ul.messenger-theme-flat .messenger-spinner {
   width: 40px;
   height: 40px;
   margin: 0;
-  background-color: #33b35a;
+  background-color: #F49C04;
   border-radius: 100%;
   -webkit-animation: sk-pulseScaleOut 1.0s infinite ease-in-out;
   animation: sk-pulseScaleOut 1.0s infinite ease-in-out;
@@ -3441,7 +3440,7 @@ ul.messenger-theme-flat .messenger-spinner {
   display: inline-block;
   position: absolute;
   top: 0;
-  background-color: #33b35a;
+  background-color: #F49C04;
   border-radius: 100%;
   -webkit-animation: sk-chasingDotsBounce 2s infinite ease-in-out;
   animation: sk-chasingDotsBounce 2s infinite ease-in-out;
@@ -3509,7 +3508,7 @@ ul.messenger-theme-flat .messenger-spinner {
 .sk-three-bounce .sk-child {
   width: 20px;
   height: 20px;
-  background-color: #33b35a;
+  background-color: #F49C04;
   border-radius: 100%;
   display: inline-block;
   -webkit-animation: sk-three-bounce 1.4s ease-in-out 0s infinite both;
@@ -3588,7 +3587,7 @@ ul.messenger-theme-flat .messenger-spinner {
   margin: 0 auto;
   width: 15%;
   height: 15%;
-  background-color: #33b35a;
+  background-color: #F49C04;
   border-radius: 100%;
   -webkit-animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
   animation: sk-circleBounceDelay 1.2s infinite ease-in-out both;
@@ -3757,7 +3756,7 @@ ul.messenger-theme-flat .messenger-spinner {
 .sk-cube-grid .sk-cube {
   width: 33.33%;
   height: 33.33%;
-  background-color: #33b35a;
+  background-color: #F49C04;
   float: left;
   -webkit-animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
   animation: sk-cubeGridScaleDelay 1.3s infinite ease-in-out;
@@ -3870,7 +3869,7 @@ ul.messenger-theme-flat .messenger-spinner {
   margin: 0 auto;
   width: 15%;
   height: 15%;
-  background-color: #33b35a;
+  background-color: #F49C04;
   border-radius: 100%;
   -webkit-animation: sk-circleFadeDelay 1.2s infinite ease-in-out both;
   animation: sk-circleFadeDelay 1.2s infinite ease-in-out both;
@@ -4040,7 +4039,7 @@ ul.messenger-theme-flat .messenger-spinner {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #33b35a;
+  background-color: #F49C04;
   -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
   animation: sk-foldCubeAngle 2.4s infinite linear both;
   -webkit-transform-origin: 100% 100%;
@@ -4280,9 +4279,9 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-primary {
-  color: color-yiq(#33b35a);
-  background-color: #33b35a;
-  border-color: #33b35a;
+  color: color-yiq(#F49C04);
+  background-color: #F49C04;
+  border-color: #F49C04;
 }
 
 .btn-primary:hover {
@@ -4297,8 +4296,8 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-primary.disabled, .btn-primary:disabled {
-  background-color: #33b35a;
-  border-color: #33b35a;
+  background-color: #F49C04;
+  border-color: #F49C04;
 }
 
 .btn-primary:not([disabled]):not(.disabled):active, .btn-primary:not([disabled]):not(.disabled).active,
@@ -4559,16 +4558,16 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-outline-primary {
-  color: #33b35a;
+  color: #F49C04;
   background-color: transparent;
   background-image: none;
-  border-color: #33b35a;
+  border-color: #F49C04;
 }
 
 .btn-outline-primary:hover {
   color: #fff;
-  background-color: #33b35a;
-  border-color: #33b35a;
+  background-color: #F49C04;
+  border-color: #F49C04;
 }
 
 .btn-outline-primary:focus, .btn-outline-primary.focus {
@@ -4577,15 +4576,15 @@ STYLE SWITCHER FOR DEMO
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #33b35a;
+  color: #F49C04;
   background-color: transparent;
 }
 
 .btn-outline-primary:not([disabled]):not(.disabled):active, .btn-outline-primary:not([disabled]):not(.disabled).active,
 .show > .btn-outline-primary.dropdown-toggle {
   color: #fff;
-  background-color: #33b35a;
-  border-color: #33b35a;
+  background-color: #F49C04;
+  border-color: #F49C04;
   -webkit-box-shadow: 0 0 0 0.2rem rgba(51, 179, 90, 0.5);
   box-shadow: 0 0 0 0.2rem rgba(51, 179, 90, 0.5);
 }
@@ -4841,7 +4840,7 @@ body {
 }
 
 a {
-  color: #33b35a;
+  color: #F49C04;
   text-decoration: none;
 }
 
@@ -4948,7 +4947,7 @@ mark,
   padding: 0.5rem 1rem;
   margin-bottom: 2rem;
   font-size: 1.25rem;
-  border-left: 5px solid #33b35a;
+  border-left: 5px solid #F49C04;
 }
 
 .blockquote-footer {
@@ -4960,7 +4959,7 @@ mark,
 }
 
 .text-primary {
-  color: #33b35a !important;
+  color: #F49C04 !important;
 }
 
 a.text-primary:focus, a.text-primary:hover {
@@ -4982,8 +4981,8 @@ a.text-primary:focus, a.text-primary:hover {
 
 .page-item.active .page-link {
   color: #fff;
-  background-color: #33b35a;
-  border-color: #33b35a;
+  background-color: #F49C04;
+  border-color: #F49C04;
 }
 
 .page-item.disabled .page-link {
@@ -4995,7 +4994,7 @@ a.text-primary:focus, a.text-primary:hover {
 .page-link {
   padding: 0.5rem 0.75rem;
   line-height: 1.25;
-  color: #33b35a;
+  color: #F49C04;
   background-color: #fff;
   border: 1px solid #ddd;
 }
@@ -5067,7 +5066,7 @@ a.text-primary:focus, a.text-primary:hover {
 
 .dropdown-item.active, .dropdown-item:active {
   color: #fff;
-  background-color: #33b35a;
+  background-color: #F49C04;
 }
 
 .dropdown-item.disabled, .dropdown-item:disabled {
@@ -5084,7 +5083,7 @@ a.text-primary:focus, a.text-primary:hover {
 * 6. UTILITIES
 */
 .bg-primary {
-  background-color: #33b35a !important;
+  background-color: #F49C04 !important;
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
@@ -5148,7 +5147,7 @@ a.bg-dark:focus, a.bg-dark:hover {
 }
 
 .border-primary {
-  border-color: #33b35a !important;
+  border-color: #F49C04 !important;
 }
 
 .border-secondary {
@@ -5180,7 +5179,7 @@ a.bg-dark:focus, a.bg-dark:hover {
 }
 
 .text-primary {
-  color: #33b35a !important;
+  color: #F49C04 !important;
 }
 
 a.text-primary:focus, a.text-primary:hover {
@@ -5244,12 +5243,12 @@ a.text-dark:focus, a.text-dark:hover {
 }
 
 .badge-primary {
-  color: color-yiq(#33b35a);
-  background-color: #33b35a;
+  color: color-yiq(#F49C04);
+  background-color: #F49C04;
 }
 
 .badge-primary[href]:focus, .badge-primary[href]:hover {
-  color: color-yiq(#33b35a);
+  color: color-yiq(#F49C04);
   text-decoration: none;
   background-color: #288b46;
 }
@@ -5394,7 +5393,7 @@ a > code {
 .nav-pills .nav-link.active,
 .nav-pills .show > .nav-link {
   color: #fff;
-  background-color: #33b35a;
+  background-color: #F49C04;
 }
 
 /*
