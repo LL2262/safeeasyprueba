@@ -1,0 +1,29 @@
+<div class="page login-page">
+  <div class="container">
+      <div class="form-outer text-center d-flex align-items-center">
+          <div class="form-inner">
+              <img src="assets/img/logo-rgb.png" width="250px" height="250px" />
+              <div class="logo text-uppercase"><strong class="text-primary">Safe Easy Travel</strong></div>
+              <p>
+                  “Viaje seguro, confiable y en condiciones”
+              </p>
+              <form #formLogin="ngForm" (ngSubmit)="onSubmit()" class="text-left form-validate">
+                  <div class="form-group-material">
+                      <input type="text" #email="ngModel" name="email" [(ngModel)]="usuario.email" required data-msg="Please enter your username" class="input-material">
+                      <label class="label-material">Email</label>
+                  </div>
+                  <div class="form-group-material">
+                      <input type="password" password="ngModel" name="password" [(ngModel)]="usuario.password" required data-msg="Please enter your password" class="input-material">
+                      <label class="label-material">Contraseña</label>
+                  </div>
+                  <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary" [disabled]="!formLogin.form.valid">Login</button>
+                  </div>
+              </form><a href="#" class="forgot-pass">¿Olvidaste la contraseña?</a>
+          </div>
+          <div class="copyrights text-center">
+              <p>Diseñado por <a href="#" class="external">CodeLineSoft</a></p>
+          </div>
+      </div>
+  </div>
+</div>
